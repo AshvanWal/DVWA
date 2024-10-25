@@ -5,6 +5,7 @@ The aim of DVWA is to **practice some of the most common web vulnerabilities**, 
 Please note, there are **both documented and undocumented vulnerabilities** with this software. This is intentional. You are encouraged to try and discover as many issues as possible.
 
 Test for sonarqube
+Test 2024
 - - - 
 
 ## WARNING!
