@@ -10,7 +10,7 @@ if( !defined( 'DVWA_WEB_PAGE_TO_ROOT' ) ) {
 
 <?php
 
-echo "2.) My name is Sherlock Holmes. It is my business to know what other people don't know.\n\n<br /><br />\n";
+echo "2.) My name is Sherlock Holmes. It is my business to know what other people, especially cool people don't know.\n\n<br /><br />\n";
 
 $line3 = "3.) Romeo, Romeo! Wherefore art thou Romeo?";
 $line3 = "--LINE HIDDEN ;)--";
